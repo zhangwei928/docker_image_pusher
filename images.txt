@@ -1,3 +1,2 @@
 #支持私库
-mysql:8.0
 nacos-server:2.1.0
