@@ -1,2 +1,2 @@
 #支持私库
-nacos-server:2.1.0
+nacos-server:v2.5.1
